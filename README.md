@@ -11,8 +11,8 @@ V12是目前最好的 在 admit_policy/size_reuse_distance_v12.py
 - admit_policy(資料夾):所有准入策略 (主要: size_reuse_distance_v12.py)
 
 
-# 原始ASC_IP_LRU
 
+# TRACE
 trace下載網址:https://drive.google.com/file/d/17lv8Zd6DG1TyBdJw1WlGV25heeicDuYp/view?usp=sharing
 
 trace位置 "D:/all_Trace/ASC-IP/wiki2018"
